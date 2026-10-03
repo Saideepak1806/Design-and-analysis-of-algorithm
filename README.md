@@ -1,30 +1,23 @@
-# Design and Analysis of Algorithms (DAA) Lab
+# DAA Lab
 
-## About
-This repository contains Python programs for the Design and Analysis of Algorithms (DAA) laboratory experiments.
-
-## Language
-- Python
+This repository contains screenshots of the **Design and Analysis of Algorithms (DAA) Lab** experiments implemented using Python.
 
 ## Experiments
+
 1. First Palindromic String in an Array
-2. 
-3. 
-4. 
-5. 
+2.Count Common Elements
+3.3. Sum of Squares of Distinct Counts
 
-## How to Run
-1. Install Python on your system.
-2. Clone or download this repository.
-3. Open the experiment's Python file.
-4. Run the program using:
+## Contents
 
-   ```bash
-   python filename.py
-   ```
+* Program screenshots
+* Output screenshots
+* Lab experiment references
 
-## Objective
-To implement and understand various algorithms using Python and analyze their time and space complexities.
+## Language
 
-## Result
-All DAA laboratory experiments are implemented using Python.
+**Python 🐍**
+
+## Note
+
+This repository is maintained for **DAA Lab practical work and reference**.

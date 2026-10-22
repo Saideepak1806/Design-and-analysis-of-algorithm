@@ -1,0 +1,13 @@
+n,algorithm,preprocessing_seconds,search_seconds_2_queries,comparisons_2_queries,total_seconds,test_cases
+1000,Linear search,0.0,4.712000000495209e-05,1001,4.712000000495209e-05,found own reg; absent reg+1
+1000,Recursive binary search,6.296300000485644e-05,8.162999989735908e-06,20,7.112599999459235e-05,found own reg; absent reg+1
+1000,Hash index lookup,1.5242999992892692e-05,9.820000030913434e-07,not directly comparable,1.6224999995984035e-05,found own reg; absent reg+1
+10000,Linear search,0.0,0.0005280619999865621,10001,0.0005280619999865621,found own reg; absent reg+1
+10000,Recursive binary search,0.00108868399999551,8.442999998692358e-06,28,0.0010971269999942024,found own reg; absent reg+1
+10000,Hash index lookup,0.00036128499999676933,1.522999994563179e-06,not directly comparable,0.0003628079999913325,found own reg; absent reg+1
+100000,Linear search,0.0,0.00563069499999358,100001,0.00563069499999358,found own reg; absent reg+1
+100000,Recursive binary search,0.01572300200000143,1.774599999748716e-05,34,0.015740747999998916,found own reg; absent reg+1
+100000,Hash index lookup,0.020795218999992926,5.247999993684971e-06,not directly comparable,0.02080046699998661,found own reg; absent reg+1
+1000000,Linear search,0.0,0.22838658899999587,1000001,0.22838658899999587,found own reg; absent reg+1
+1000000,Recursive binary search,0.3347796909999943,2.7661000004286507e-05,40,0.33480735199999856,found own reg; absent reg+1
+1000000,Hash index lookup,0.22968585300000655,3.113999994752703e-06,not directly comparable,0.2296889670000013,found own reg; absent reg+1

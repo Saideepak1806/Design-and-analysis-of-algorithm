@@ -1,0 +1,3 @@
+Reg No: 192411047 | Name: P SAI DEEPAK
+Timestamp: 2026-10-16T08:13:10+00:00
+n=1000000; queries=50000; hash_build_seconds=0.180668; hash_query_seconds=0.021235; binary_50000_seconds=0.262194; hash_found=50000; binary_found=50000

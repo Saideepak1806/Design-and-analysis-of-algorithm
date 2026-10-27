@@ -1,0 +1,77 @@
+[
+  {
+    "id": "PKG-MEDS-01",
+    "weight": 20,
+    "value": 86
+  },
+  {
+    "id": "PKG-WATER-02",
+    "weight": 58,
+    "value": 86
+  },
+  {
+    "id": "PKG-RATION-03",
+    "weight": 69,
+    "value": 123
+  },
+  {
+    "id": "PKG-SHELTER-04",
+    "weight": 70,
+    "value": 67
+  },
+  {
+    "id": "PKG-COMMS-05",
+    "weight": 56,
+    "value": 159
+  },
+  {
+    "id": "PKG-MEDS-06",
+    "weight": 41,
+    "value": 58
+  },
+  {
+    "id": "PKG-WATER-07",
+    "weight": 24,
+    "value": 36
+  },
+  {
+    "id": "PKG-RATION-08",
+    "weight": 25,
+    "value": 159
+  },
+  {
+    "id": "PKG-SHELTER-09",
+    "weight": 19,
+    "value": 194
+  },
+  {
+    "id": "PKG-COMMS-10",
+    "weight": 57,
+    "value": 135
+  },
+  {
+    "id": "PKG-MEDS-11",
+    "weight": 43,
+    "value": 44
+  },
+  {
+    "id": "PKG-WATER-12",
+    "weight": 52,
+    "value": 48
+  },
+  {
+    "id": "PKG-RATION-13",
+    "weight": 33,
+    "value": 137
+  },
+  {
+    "id": "PKG-SHELTER-14",
+    "weight": 79,
+    "value": 190
+  },
+  {
+    "id": "PKG-COMMS-15",
+    "weight": 45,
+    "value": 84
+  }
+]

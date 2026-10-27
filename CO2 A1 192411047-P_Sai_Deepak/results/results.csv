@@ -1,0 +1,79 @@
+Task,Algorithm_or_Condition,Parameter_or_Target,Size_N,Primary_Metric_Comparisons_or_Candidates,Secondary_Metric_Swaps_or_Feasible,Execution_Time_ms
+Q1_Sorting,Selection Sort,Random,500,124750,496,8.746
+Q1_Sorting,Bubble Sort,Random,500,124750,60798,16.515
+Q1_Sorting,Insertion Sort,Random,500,61291,60798,9.729
+Q1_Sorting,Selection Sort,Reverse Sorted,500,124750,254,9.066
+Q1_Sorting,Bubble Sort,Reverse Sorted,500,124750,124739,20.804
+Q1_Sorting,Insertion Sort,Reverse Sorted,500,124750,124739,16.770
+Q1_Sorting,Selection Sort,95% Nearly Sorted,500,124750,25,7.710
+Q1_Sorting,Bubble Sort,95% Nearly Sorted,500,111055,6281,8.452
+Q1_Sorting,Insertion Sort,95% Nearly Sorted,500,6780,6281,0.920
+Q1_Sorting,Selection Sort,Random,1000,499500,998,32.097
+Q1_Sorting,Bubble Sort,Random,1000,498324,240654,63.712
+Q1_Sorting,Insertion Sort,Random,1000,241646,240654,32.549
+Q1_Sorting,Selection Sort,Reverse Sorted,1000,499500,528,32.118
+Q1_Sorting,Bubble Sort,Reverse Sorted,1000,499500,499443,91.286
+Q1_Sorting,Insertion Sort,Reverse Sorted,1000,499499,499443,64.964
+Q1_Sorting,Selection Sort,95% Nearly Sorted,1000,499500,51,31.791
+Q1_Sorting,Bubble Sort,95% Nearly Sorted,1000,496260,38656,42.503
+Q1_Sorting,Insertion Sort,95% Nearly Sorted,1000,39655,38656,5.130
+Q1_Sorting,Selection Sort,Random,2000,1999000,1991,125.832
+Q1_Sorting,Bubble Sort,Random,2000,1995597,976860,249.010
+Q1_Sorting,Insertion Sort,Random,2000,978852,976860,133.674
+Q1_Sorting,Selection Sort,Reverse Sorted,2000,1999000,1096,165.355
+Q1_Sorting,Bubble Sort,Reverse Sorted,2000,1999000,1998788,363.814
+Q1_Sorting,Insertion Sort,Reverse Sorted,2000,1998987,1998788,297.308
+Q1_Sorting,Selection Sort,95% Nearly Sorted,2000,1999000,111,139.510
+Q1_Sorting,Bubble Sort,95% Nearly Sorted,2000,1981234,112074,184.508
+Q1_Sorting,Insertion Sort,95% Nearly Sorted,2000,114073,112074,15.922
+Q1_Sorting,Selection Sort,Random,3000,4498500,2987,303.906
+Q1_Sorting,Bubble Sort,Random,3000,4497834,2197554,597.487
+Q1_Sorting,Insertion Sort,Random,3000,2200546,2197554,327.809
+Q1_Sorting,Selection Sort,Reverse Sorted,3000,4498500,1666,309.552
+Q1_Sorting,Bubble Sort,Reverse Sorted,3000,4498500,4498066,807.068
+Q1_Sorting,Insertion Sort,Reverse Sorted,3000,4498458,4498066,618.405
+Q1_Sorting,Selection Sort,95% Nearly Sorted,3000,4498500,182,298.843
+Q1_Sorting,Bubble Sort,95% Nearly Sorted,3000,4449045,287166,399.306
+Q1_Sorting,Insertion Sort,95% Nearly Sorted,3000,290165,287166,40.045
+Q2_Sequential_Search,Best Case (Pos 1),T-1047,100,1,N/A,1.700
+Q2_Sequential_Search,Average Case (Middle),T-1047,100,51,N/A,6.600
+Q2_Sequential_Search,Worst Case (End),T-1047,100,100,N/A,8.800
+Q2_Sequential_Search,Unsuccessful Search,T-1048,100,100,N/A,8.000
+Q2_Sequential_Search,Best Case (Pos 1),T-1047,500,1,N/A,1.200
+Q2_Sequential_Search,Average Case (Middle),T-1047,500,251,N/A,26.700
+Q2_Sequential_Search,Worst Case (End),T-1047,500,500,N/A,39.300
+Q2_Sequential_Search,Unsuccessful Search,T-1048,500,500,N/A,36.300
+Q2_Sequential_Search,Best Case (Pos 1),T-1047,1000,1,N/A,0.800
+Q2_Sequential_Search,Average Case (Middle),T-1047,1000,501,N/A,29.200
+Q2_Sequential_Search,Worst Case (End),T-1047,1000,1000,N/A,81.400
+Q2_Sequential_Search,Unsuccessful Search,T-1048,1000,1000,N/A,93.000
+Q2_Sequential_Search,Best Case (Pos 1),T-1047,5000,1,N/A,1.700
+Q2_Sequential_Search,Average Case (Middle),T-1047,5000,2501,N/A,171.900
+Q2_Sequential_Search,Worst Case (End),T-1047,5000,5000,N/A,286.800
+Q2_Sequential_Search,Unsuccessful Search,T-1048,5000,5000,N/A,291.200
+Q2_Sequential_Search,Best Case (Pos 1),T-1047,10000,1,N/A,1.700
+Q2_Sequential_Search,Average Case (Middle),T-1047,10000,5001,N/A,334.600
+Q2_Sequential_Search,Worst Case (End),T-1047,10000,10000,N/A,847.300
+Q2_Sequential_Search,Unsuccessful Search,T-1048,10000,10000,N/A,600.700
+Q3_String_Matching,Test 1: Low-Work (Immediate Mismatch),TxtLen:10000_PatLen:20,10000,9981,9981,2.137
+Q3_String_Matching,Test 2: High-Work (Last-Char Mismatch),TxtLen:10000_PatLen:20,10000,199620,9981,21.869
+Q3_String_Matching,Test 3: Cybersecurity Prefix Cascade,TxtLen:20448_PatLen:46,20448,32431,20403,3.675
+Q4_Closest_Pair,Brute_Force,DRONE-9 & DRONE-37,100,4950,4950,0.845
+Q4_Closest_Pair,Brute_Force,DRONE-116 & DRONE-258,500,124750,124750,20.466
+Q4_Closest_Pair,Brute_Force,DRONE-169 & DRONE-671,1000,499500,499500,83.268
+Q4_Closest_Pair,Brute_Force,DRONE-564 & DRONE-1984,2000,1999000,1999000,389.724
+Q4_Closest_Pair,Brute_Force,DRONE-564 & DRONE-1984,4000,7998000,7998000,1476.657
+Q6_Exhaustive_Knapsack,0/1 Knapsack Exhaustive,BestVal:656,10,1024,299,1.788
+Q6_Exhaustive_Knapsack,0/1 Knapsack Exhaustive,BestVal:961,14,16384,4102,42.260
+Q6_Exhaustive_Knapsack,0/1 Knapsack Exhaustive,BestVal:1144,18,262144,57129,728.534
+Q6_Exhaustive_Knapsack,0/1 Knapsack Exhaustive,BestVal:1463,22,4194304,807496,11846.746
+Q7_Redesign_Orig,Brute Force Closest Pair,N=100,100,4950,N/A,0.776
+Q7_Redesign_New,Presorted Spatial Pruning,N=100,100,4,N/A,0.060
+Q7_Redesign_Orig,Brute Force Closest Pair,N=500,500,124750,N/A,19.727
+Q7_Redesign_New,Presorted Spatial Pruning,N=500,500,5,N/A,0.304
+Q7_Redesign_Orig,Brute Force Closest Pair,N=1000,1000,499500,N/A,79.672
+Q7_Redesign_New,Presorted Spatial Pruning,N=1000,1000,11,N/A,0.712
+Q7_Redesign_Orig,Brute Force Closest Pair,N=2000,2000,1999000,N/A,351.722
+Q7_Redesign_New,Presorted Spatial Pruning,N=2000,2000,12,N/A,1.564
+Q7_Redesign_Orig,Brute Force Closest Pair,N=5000,5000,12497500,N/A,2108.517
+Q7_Redesign_New,Presorted Spatial Pruning,N=5000,5000,17,N/A,4.448
